@@ -6,3 +6,5 @@ Denna Github innehåller de delar som finns i mitt dataSet över fotbollar som s
 
 ### Filnamn
 Filen vid namn "model.h5" är ett exempel på en fil som har tränats på att se fotbollar och fungerar bra. 
+
+model.tflite är även den från mitt arbete. 
